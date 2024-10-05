@@ -1,0 +1,6 @@
+github.com/Saiweb3dev/taskManager v0.0.0-20241005055937-860409477fed h1:Axe65ejHUxn1Nc6QaoQBnUST76ty4PRl+vdyGpqTTWU=
+github.com/Saiweb3dev/taskManager v0.0.0-20241005055937-860409477fed/go.mod h1:fq/StP4+VK4vckz1lPVvtkb12tB/kxNtvAKGmfePcZ0=
+github.com/mattn/go-runewidth v0.0.9 h1:Lm995f3rfxdpd6TSmuVCHVb/QhupuXlYr8sCI/QdE+0=
+github.com/mattn/go-runewidth v0.0.9/go.mod h1:H031xJmbD/WCDINGzjvQ9THkh0rPKHF+m2gUSrubnMI=
+github.com/nsf/termbox-go v1.1.1 h1:nksUPLCb73Q++DwbYUBEglYBRPZyoXJdrj5L+TkjyZY=
+github.com/nsf/termbox-go v1.1.1/go.mod h1:T0cTdVuOwf7pHQNtfhnEbzHbcNyCEcVU4YPpouCbVxo=

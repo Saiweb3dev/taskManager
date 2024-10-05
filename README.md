@@ -15,7 +15,7 @@ TaskManager is a simple, terminal-based task management application with a web i
 To install TaskManager, you need to have Go installed on your system. Then, you can use the following command:
 
 ```bash
-go get github.com/yourusername/taskmanager
+go get github.com/Saiweb3dev/taskManager
 ```
 
 ## Usage
